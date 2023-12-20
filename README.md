@@ -15,3 +15,6 @@
 <p>Split each line down to "[number] [red|blue|green]", then count each type of ball</p>
 <h3>Part 2:</h3>
 <p>Not much different from part 1, just different comparison needed.</p>
+
+
+http://sutlib2.sut.ac.th/sut_contents/H173702.pdf
