@@ -20,7 +20,7 @@ for l in s:
     for num in handnum:
         if num in winnum:
             count += 1
-    #print('count:', count)
+    print('count:', count)
     if count > 0:
         r += pow(2, count - 1)
 print(r)
